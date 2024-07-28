@@ -11,3 +11,4 @@
   - Timer Block
 - (3) Overview Circuit
 # Simulation 
+🔒**Version Proteus Design Suite 8.13**
